@@ -1,6 +1,6 @@
-### متن به گفتار فارسی — Persian Text to Speech
+### فارسی‌هوش — Persian AI
 
-من [فارسی‌هوش](https://farsihoosh.ir) را می‌سازم: تبدیل متن فارسی به صدای طبیعی زن و مرد، مستقیم در مرورگر.
+من [فارسی‌هوش](https://farsihoosh.ir) را می‌سازم: تبدیل متن فارسی به گفتار (زن/مرد)، استخراج متن از عکس (OCR)، بنچمارک و API — مستقیم در مرورگر.
 🎧 امتحان کنید: https://farsihoosh.ir
 
-**راهنمای داکر:** [tts-docker](https://github.com/mahdi-idham/tts-docker) — داکرفایل آماده برای اجرای مدل‌های TTS روی GPU، به زبان فارسی.
+**مدل‌های باز:** [open-persian-models](https://github.com/mahdi-idham/open-persian-models) — داکرفایل آماده برای اجرای مدل‌های فارسی با Docker، به زبان فارسی.
